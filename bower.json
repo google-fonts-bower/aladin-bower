@@ -1,0 +1,17 @@
+{
+    "name": "aladin-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Sudtipos"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/aladin-bower.git"
+    },
+    "description": "Aladin font",
+    "keywords": [
+        "font",
+        "HANDWRITING"
+    ]
+}
